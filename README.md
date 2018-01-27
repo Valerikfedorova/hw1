@@ -20,7 +20,7 @@
   
 [То замечательное место, где я учусь](https://lang.hse.ru/)
 
-[Moreover, I want to share with my E-mail, perhaps somebody should write me a brief letter about himself:](/lerik.fedorova@yandex.ru)
+[Moreover, I want to share with my E-mail, perhaps somebody should write me a brief letter about himself](mailto://lerik.fedorova@yandex.ru)
 
 ### Для поддержания себя в тонусе я разработала систему разгрузочных дней, изображенную в виде таблицы. Данные блюда можно чередовать и совмещать в любом виде.
 Утром      |Днем | Вечером
