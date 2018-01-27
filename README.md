@@ -7,9 +7,9 @@
 
 *I am from Kirov, a small city*
 
-~~I am interested in chemistry~~
+~~I am interested in chemistry~~ 
 
-`<`Why did I decide to learn languages    
+> Why did I decide to learn languages    
 
 ![the country of my dream - Germany](https://www.votpusk.ru/country/cnimages/new/germany.jpg)
 
