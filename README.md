@@ -3,13 +3,16 @@
 
 ### Today my talk would be devoted to my personality
 
+#### Especially, I would tell you about my education
+
 **My name is Valeria Fedorova**
 
-*I am from Kirov, a small city*
+*I am from Kirov,a small city, which is located in northern part of Russia*
 
 ~~I am interested in chemistry~~ 
 
-> Why did I decide to learn languages    
+> Why did I decide to learn languages? 
+> What advantages of learning foreign languages?
 
 ![the country of my dream - Germany](https://www.votpusk.ru/country/cnimages/new/germany.jpg)
 
